@@ -14,11 +14,8 @@ module.exports = {
     "no-irregular-whitespace": "off",
     indent: ["error", 2, { SwitchCase: 1 }],
     semi: ["error", "always"],
-    "space-before-function-paren": [
-      "error",
-      { anonymous: "always", named: "never" }
-    ],
     "generator-star-spacing": "off",
-    quotes: [2, "single"]
+    quotes: [2, "single"],
+    "space-before-function-paren":0
   }
 };
