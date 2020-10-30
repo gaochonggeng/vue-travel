@@ -1,13 +1,19 @@
 <template>
-  <div>home</div>
+  <div>
+    <home-header></home-header>
+  </div>
 </template>
 
 <script>
-export default {
+import HomeHeader from './components/Header';
 
-}
+export default {
+  name: 'Header',
+  components: {
+    HomeHeader
+  }
+};
 </script>
 
 <style>
-
 </style>
