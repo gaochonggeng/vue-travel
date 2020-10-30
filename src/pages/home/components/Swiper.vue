@@ -21,14 +21,14 @@ export default {
       swiperList: [
         {
           id: '0001',
-          url: 'https://bpic.588ku.com/back_list_pic/20/08/04/1281535610fe1b16cdb1853780e4a06b.jpg!/fh/300/quality/90/unsharp/true/compress/true'
+          url: 'https://imgs.qunarzz.com/p/p64/1809/46/ddb72937ac938a02.jpg_256x160_5f99ddba.jpg'
         },
         {
           id: '0002',
-          url: 'https://bpic.588ku.com/back_list_pic/20/08/04/a079c7f9b7942b537e0e6e4c30c16c62.jpg!/fh/300/quality/90/unsharp/true/compress/true'
+          url: 'https://imgs.qunarzz.com/p/p19/1809/b9/2a3d362aabcbb02.jpg_256x160_28907832.jpg'
         }, {
           id: '0003',
-          url: '//bpic.588ku.com/back_list_pic/20/08/04/38d1625d6b861de622009c57a258a18a.jpg!/fh/300/quality/90/unsharp/true/compress/true'
+          url: 'https://imgs.qunarzz.com/p/p70/1809/e7/4941057a6aae702.jpg_256x160_9fee6ccb.jpg'
         }
       ]
     };
