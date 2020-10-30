@@ -102,8 +102,9 @@ export default {
 <style lang="scss" scoped>
 .icons {
   height: 0;
-  padding-bottom: 50%;
+  padding-bottom: 36%;
   overflow: hidden;
+  margin-top: 0.1rem;
 }
 .icon {
   position: relative;
